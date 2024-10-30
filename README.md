@@ -1,1 +1,1 @@
-# voting_app
+# votingApp
